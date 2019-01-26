@@ -1,0 +1,96 @@
+.Blue_rectangle{
+    height: 100px;
+    width: 2000px;
+    background-color: #3b5998;
+    float: left;
+    margin: -10px 0px;
+}
+
+.Grey_rectangle{
+    height: 600px;
+    width: 2000px;
+    background-color: lightgray;
+    float: left;
+    margin: 0px 0px;
+}
+
+.White_rectangle{
+    height: 420px;
+    width: 700px;
+    background-color: white;
+    float: left;
+    margin: -520px 480px;
+}
+
+.Sign_Up_Button{
+    float:left;
+    margin:-665px 420px;
+}
+
+.facebook{
+    color:white;
+    float:left;
+    font-weight: 700;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:-735px 160px;
+}
+
+.Login{
+    color:black;
+    float:left;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:-490px 750px;
+}
+
+.form1{
+    color:black;
+    float:left;
+    font-weight: 600;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:-400px 650px;
+}
+
+.form2{
+    color:black;
+    float:left;
+    font-weight: 600;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: -350px 650px;
+}
+
+.Login_Button{
+    color:black;
+    float:left;
+    font-weight: 600;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: -300px 650px;
+}
+
+.or{
+    color:black;
+    float:left;
+    font-weight: 600;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:-250px 790px;
+}
+
+.Create_New_Account_Button{
+    float:left;
+    margin:-200px 720px;
+}
+
+.Forgotten_Account{
+    color:rgb(66,103,178);
+    float:left;
+    font-weight: 600;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:-160px 770px;
+}
