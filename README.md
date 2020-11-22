@@ -1,4 +1,4 @@
-# HTML-challenge-imitate-a-Facebook-page
+# HTML-challenge-replicate-a-Facebook-page
 
 HTML training: Replicating a Facebook "sign in" page.
 
